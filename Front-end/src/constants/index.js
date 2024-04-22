@@ -72,7 +72,7 @@ export const stats = [
   {
     id: "stats-2",
     title: "Trusted by Users",
-    value: "680+",
+    value: "700+",
   },
 
 ];
