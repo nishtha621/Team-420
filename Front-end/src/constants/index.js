@@ -10,10 +10,6 @@ export const navLinks = [
     title: "Features",
   },
   {
-    id: "product",
-    title: "Product",
-  },
-  {
     id: "clients",
     title: "Clients",
   },
@@ -71,18 +67,14 @@ export const stats = [
   {
     id: "stats-1",
     title: "User Active",
-    value: "3800+",
+    value: "2000+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
-    value: "230+",
+    title: "Trusted by Users",
+    value: "680+",
   },
-  {
-    id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
-  },
+
 ];
 
 export const footerLinks = [
